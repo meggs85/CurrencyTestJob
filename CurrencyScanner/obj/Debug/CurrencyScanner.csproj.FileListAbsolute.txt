@@ -1,0 +1,10 @@
+C:\Dropbox\VS Projects\CurrencyScanner\bin\Debug\CurrencyScanner.exe.config
+C:\Dropbox\VS Projects\CurrencyScanner\bin\Debug\CurrencyScanner.exe
+C:\Dropbox\VS Projects\CurrencyScanner\bin\Debug\CurrencyScanner.pdb
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.csprojAssemblyReference.cache
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.Form1.resources
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.Properties.Resources.resources
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.csproj.GenerateResource.cache
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.csproj.CoreCompileInputs.cache
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.exe
+C:\Dropbox\VS Projects\CurrencyScanner\obj\Debug\CurrencyScanner.pdb

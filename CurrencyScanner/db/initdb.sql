@@ -1,0 +1,14 @@
+CREATE TABLE Currencies
+(
+	id_cur INTEGER PRIMARY KEY IDENTITY NOT NULL,
+	name CHAR(50) NOT NULL,
+	ticker CHAR(3) NOT NULL
+);
+
+CREATE TABLE Prices
+(
+	id_price INTEGER PRIMARY KEY IDENTITY,
+	price FLOAT NOT NULL,
+	daydate DATE,
+	id_cur INTEGER NOT NULL FOREIGN KEY(id_cur) REFERENCES Currencies(id_cur)  
+); 
